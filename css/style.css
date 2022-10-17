@@ -1,7 +1,8 @@
 body {
     background-image: url("../images/background_image.png");
     
-    background-color: darkcyan;
+    /*background-color: darkcyan;*/
+    background-color: red;
     
 }
 
@@ -14,11 +15,11 @@ p, nav {
 #calendar {
     width: 575px;
     background-color: white;
-    color: green;
+    color: blue;
 }
 
 #addEvent {
     background-color: white;
-    color: green;
+    color: blue;
     max-width: 700px;
 }
